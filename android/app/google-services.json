@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674442793356",
+    "project_id": "simply-parked-9d54f",
+    "storage_bucket": "simply-parked-9d54f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674442793356:android:ca99596b7243d0609246a9",
+        "android_client_info": {
+          "package_name": "com.example.smart_car_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDNSooikxwojmT0oBkujywAYIsBjakkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
